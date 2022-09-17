@@ -1,5 +1,5 @@
 # Gumbee
-## Collaborative energy management app to prevent blackouts
+_Collaborative energy management app to prevent blackouts_
 
 ### Makers:
 - Daniela Leite  (Research Scientist)
