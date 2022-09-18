@@ -53,3 +53,7 @@ Our future plans about the project regard:
 - Reward systems: we would design a more attractive reward system for the costumer, to further incentivize the cooperation with the company
 - Selling it to users and companies.
 
+### GitHub repos:
+
+- https://github.com/DaveRingg/sleepers_hackzurich2022-frontend.git
+- https://github.com/DaveRingg/sleepers_hackzurich2022-backend.git
